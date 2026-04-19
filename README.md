@@ -1,0 +1,1 @@
+## this is simple python code to understand cicd and githubactio
